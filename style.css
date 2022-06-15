@@ -1,0 +1,68 @@
+/*Color Palette: #fbe0c3, #ffbb98, #7d8e95, #344648*/
+
+body, html {
+    height: 100%;
+    overflow-x: hidden;
+}
+
+#full {
+    height: 100%;
+}
+
+#welcome {
+    background-color: #ebd9cb;
+}
+
+#left {
+    background-color:#ebd9cb;
+    border: 3px solid #ebd9cb;
+    border-radius: 0px 30px 0px 0px;
+}
+
+.left-container {
+    margin: 150px 0px 0px 0px;
+}
+
+#text {
+    color: #fea02f;
+}
+
+h1, h3 {
+    color: #262220;
+}
+
+#submit {
+    background-color: #de6600;
+    border: 3px solid #de6600;
+    color: white;
+    border-radius: 8px;
+}
+
+#submit:hover {
+    background-color: #fea02f;
+    border: 3px solid #fea02f;
+    color: white;
+}
+
+#formStyle {
+    margin: 70px 90px 0px 90px;
+}
+
+#login_form {
+    margin: 120px 100px 10px 100px;
+}
+
+#welcome_header {
+    margin: 150px 0px 0px 0px;
+    border-right: 2px solid white;
+}
+
+#line {
+    border-left: 2px solid white;
+}
+
+#image {
+    margin-top: 120px;
+}
+
+
